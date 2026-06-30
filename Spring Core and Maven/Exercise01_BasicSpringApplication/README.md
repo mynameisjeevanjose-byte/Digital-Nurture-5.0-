@@ -13,15 +13,13 @@ Configure a basic Spring application using the Spring Framework and XML configur
 ## Project Structure
 
 ```
-src
- ├── main
- │    ├── java
- │    └── resources
- └── test
+Exercise01_BasicSpringApplication
+│── src
+│   ├── main
+│   │   ├── java
+│   │   └── resources
+│   └── test
+│── pom.xml
+│── README.md
 ```
 
-## Output
-
-```
-Book Service Called
-```
